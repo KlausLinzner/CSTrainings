@@ -27,6 +27,3 @@ https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
 * Local functions
 * Expression bodied members
 * Numerical literals
-
-# CSTrainings
-
