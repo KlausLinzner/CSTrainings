@@ -1,5 +1,10 @@
+Slides available via https://gitpitch.com/KlausLinzner/CSTrainings
+
+Content to create:
+
 # What's new in C#
-This is not a complete list - just a short recap of stuff you're likely to need regularly
+This will not be a complete list - just a short recap of stuff you're likely to need regularly
+
 ## Language vs Runtime vs API
 
 ## Oldies but goldies
