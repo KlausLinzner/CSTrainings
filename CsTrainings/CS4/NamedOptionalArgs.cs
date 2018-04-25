@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CsTrainings.CS4
+{
+    public class NamedOptionalArgs
+    {
+public void Drive(int persons = 1, bool fast = true, bool safe = false)
+{
+    //Do stuff
+}
+public void Use()
+{
+    Drive();
+    Drive(safe:true);
+}
+    }
+}
